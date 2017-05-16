@@ -1,0 +1,1 @@
+This project demonstrates an issue with Swift Package Manager failing to link system modules correctly in generated XCode projects.
